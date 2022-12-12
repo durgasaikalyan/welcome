@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.container {
+  font-family: Bree Serif;
+  background-color: #1e293b;
+  width: 70%;
+  text-align: center;
+  padding: 35px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  display: none;
+}
